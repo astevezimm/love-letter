@@ -1,4 +1,69 @@
-/* need small, medium, large images */
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2 {
+    text-align: center;
+    font-family: arial, sans-serif;
+}
+
+nav {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    font-family: arial, sans-serif;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    position: sticky;
+    top: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 1.5rem;
+    background-color: lightgray;
+    padding: .25rem .5rem;
+    border-radius: 8px;
+    color: black;
+    transition: background-color 0.2s;
+    &:hover {
+        background-color: darkgray;
+    }
+}
+
+.active {
+    background-color: darkgray;
+    color: white;
+    outline: 3px solid black;
+}
+
+ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+li {
+    width: fit-content;
+    list-style: none;
+}
+
 img {
-    max-width: 20%;
+    border: 1px solid #ececec;
+}
+
+.md-img, img {
+    max-width: 20rem;
+}
+
+.sm-img {
+    max-width: 10rem;
+}
+
+.lg-img {
+    max-width: min(40rem, 100vw);
 }

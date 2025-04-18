@@ -1,25 +1,35 @@
-const NUM_IMAGES = 77
+import {LoaderFunctionArgs, redirect} from '@remix-run/node'
+import {Link, NavLink, useLoaderData} from '@remix-run/react'
+import Drawings from '~/routes/Drawings'
+import Stories from '~/routes/Stories'
 
-function generateRandomArray(): number[] {
-  const array = Array.from({ length: NUM_IMAGES }, (_, i) => i + 1)
-  for (let i = array.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1)) as number
-    [array[i], array[j]] = [array[j], array[i]]
-  }
-  return array
+export async function loader({request}: LoaderFunctionArgs) {
+  const url = new URL(request.url)
+  const tab = url.searchParams.get("tab")
+  if (!tab || !['drawings', 'stories'].includes(tab)) return redirect("/?tab=drawings")
+  return tab
 }
 
 export default function MainPage() {
+  const tab = useLoaderData() as string
+  
   return (
-    <ul>
-      {generateRandomArray().map(num => (
-        <li key={num}>
-          <img
-            src={`/images/i${String(num).padStart(2, "0")}.jpg`}
-            alt={`Image ${num}`}
-          />
-        </li>
-      ))}
-    </ul>
+    <>
+      <h1>Love Letter to My Childhood Imagination</h1>
+      <h2>Things I've drawn, stories I've written in preteens or older</h2>
+      <nav>
+        <Tab label='Drawings' param='drawings' current={tab} />
+        <Tab label='Stories' param='stories' current={tab} />
+      </nav>
+      {tab === 'drawings' ? <Drawings /> : <Stories />}
+    </>
+  )
+}
+
+function Tab({label, param, current} :{label: string, param: string, current: string}) {
+  return (
+    <Link to={`/?tab=${param}`} className={current===param ? "active" : ""}>
+      {label}
+    </Link>
   )
 }
