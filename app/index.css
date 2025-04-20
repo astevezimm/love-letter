@@ -107,6 +107,10 @@ h3 {
         background-color: lightgray;
         text-indent: 0;
         padding: 3px 5px;
-        bottom: -1rem;
+        top: 1.3rem;
+        left: 0;
+        width: max-content;
+        height: fit-content;
+        max-width: min(20rem, 100vw);
     }
 }
