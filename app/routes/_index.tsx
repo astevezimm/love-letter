@@ -1,7 +1,8 @@
 import {LoaderFunctionArgs, redirect} from '@remix-run/node'
 import {Link, NavLink, useLoaderData} from '@remix-run/react'
-import Drawings from '~/routes/Drawings'
+import Drawings, {generateRandomArray} from '~/routes/Drawings'
 import Stories from '~/routes/Stories'
+import {useEffect, useRef, useState} from 'react'
 
 export async function loader({request}: LoaderFunctionArgs) {
   const url = new URL(request.url)
@@ -12,6 +13,29 @@ export async function loader({request}: LoaderFunctionArgs) {
 
 export default function MainPage() {
   const tab = useLoaderData() as string
+  const [drawings, setDrawings] = useState<number[]>([])
+  const scrollPositions = useRef<{ [key: string]: number }>({ drawings: 0, stories: 0 })
+  
+  useEffect(() => {
+    if (drawings.length === 0) setDrawings(generateRandomArray())
+  }, [])
+
+  useEffect(() => {
+    const handleScroll = () => {
+      console.log('scroll', scrollPositions)
+      scrollPositions.current[tab] = window.scrollY
+    }
+    window.addEventListener('scroll', handleScroll)
+
+    return () => {
+      window.removeEventListener('scroll', handleScroll)
+    }
+  }, [tab])
+  
+  useEffect(() => {
+    const scrollY = scrollPositions.current[tab] || 0
+    window.scrollTo(0, scrollY)
+  }, [tab])
   
   return (
     <>
@@ -21,7 +45,7 @@ export default function MainPage() {
         <Tab label='Drawings' param='drawings' current={tab} />
         <Tab label='Stories' param='stories' current={tab} />
       </nav>
-      {tab === 'drawings' ? <Drawings /> : <Stories />}
+      {tab === 'drawings' ? <Drawings drawings={drawings} /> : <Stories />}
     </>
   )
 }

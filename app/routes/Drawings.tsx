@@ -1,3 +1,5 @@
+import {memo, useEffect, useState} from 'react'
+
 const NUM_IMAGES = 77
 const smImages = [1,4,7,19,21,22,25,27,32,39,41,42,47,51,63,65,72]
 const mdImages = [
@@ -6,7 +8,7 @@ const mdImages = [
 ]
 const lgImages = [2,3,8,12,13,14,15,24,29,31,33,34,36,37,43,46,49,50]
 
-function generateRandomArray(): number[] {
+export function generateRandomArray(): number[] {
   const array = Array.from({ length: NUM_IMAGES }, (_, i) => i + 1)
   for (let i = array.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1)) as number
@@ -15,10 +17,10 @@ function generateRandomArray(): number[] {
   return array
 }
 
-export default function Drawings() {
+export default function Drawings({drawings}: { drawings: number[] }) {
   return (
     <ul>
-      {generateRandomArray().map(num => (
+      {drawings.map(num => (
         <li key={num}>
           <img
             src={`/images/i${String(num).padStart(2, "0")}.jpg`}
