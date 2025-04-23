@@ -435,7 +435,93 @@ He goes to the Cave of Terror. Rest of the route is on the map of the cave of te
 
 ![map 2](/images/s06.jpg)
 
-While **they\`They?\`** walked to the shed halfway, it got too dark to walk anymore.
+While they walked to the shed halfway, it got too dark to walk anymore.
 #### Chapter 5: The Wolfrats
+They **hunted a deer\`Hopefully, Calvin wasn't too much of a city boy in 1993.\`** and made a tent out of the skin. They made a camp fire and cooked the deer meat. They ate.
 
+Calvin asked the prisioner, "What is your name."
+
+He answered, "Uroda!"
+
+They went to sleep. The wolfrats smelled the food. They came. Uroda was the only one up. He saw the wolfrats. He tried to wake the other people up. He can't.
+
+He took his sword and tried at attack. There was too many wolfrats.
+
+He yelled, "HELP!"
+
+Everybody woke up. The wizard goes to get the birthstones. Calvin goes to save Uroda. They both killed some wolfs.
+
+A wolfrat saw the wizard with the birthstones. **He did a special call\`So they were attracted by the food, but apparently agents of this Con guy.\`**. All the wolfs went to attack the wizard.
+
+The wizard dropped the stones. Clavin and Uroda came to rescue the wizard. Clavin striked at a wolfrat ~~with a dark nose~~ that was growling at **the\`Oops, left out a word.\`**, but another jumped on him. So he just got the leg. **Uroda kills the wolfrat on Calvin\`This supposed outline is in the weeds, isn't it?\`**.
+
+Calvin noticed a guy who pick up the birthstones and put them in a bag. He tried to get away on a horse. Calvin got his crossbow of the tent and shot him while Uroda was chasing him.
+
+The **knight that shot Shawn\`In the beginning of the story\`** dropped from the sky with his glider folding in.
+
+Uroda told Calvin, "It's **the Cobra\`The thing is that they're suppose to be in Great Britain.\`**. Con's best fighting knight."
+#### Chapter 6: The Cobra
+Calvin and Uroda walked backward to the dead night with the **birthstones\`So why birthstones anyway?\`**. The had a conversation. The Cobra pulled out two swords. Calvin went to fight him.
+
+Uroda warned Calvin that he won't stand a chance. **He wasn't standing a chance\`LOL\`**.
+
+He walked away and told Uroda that they needed a plan. The plan's on the **plan sheet\`Oh, come on! Fine, need to fetch this plan sheet.\`**:
+
+![map 3](/images/s07.jpg)
+
+Then they do the plan but the arrow **hit his glider instead of him\`After finding this plan sheet, I'll have this in context.\`**. The Cobra fell out of the sky and landed on Calvin. They both lost their weapons. They fought by hand.
+
+Uroda asked, "What about the wizard?"
+
+Calvin noticed the wizard still there being attacked by the wolfrats. The wizard did a spell that **killed all the wolfrats\`Reminds me of the part on Iron Man 2. Either Iron Man or War Machine wipes out enemies with a powerful attack and the other says, "Why didn't you open with that?"\`**. On **shell sheet\`Fine, I guess I dig for that too. Gerf!\`**:
+
+![map 4](/images/s08.jpg)
+
+He yelled, "This spell only works on wolfrats."
+
+The Cobra got frightened by the spell and **ran back to the Dark Castle\`Ha ha, despite what the wizard says, he's not finding out.\`**.
+#### Chapter 7: The Invasion of Alien Ethnic Groups
+**Now\`Interesting chapter title. Um, okay?\`** Calvin lived three years of Shawn's life. **Shawn lived three years of Calvin's life\`I was wondering when we were getting back to that.\`**. They continued  living this lifes since Calvin's **sleep was way too long\`Huh? Am I missing something here?\`**.
+
+In 1996 it was a big battle. Aliens were trying to rule planet Earth. Shawn was getting the info about them from a computer on a base. **Info in packet\`Bangs head on deck. Okay, not really, but seriously man! To be fair, I had no intention back then to put all this up on a website like this, but use it to write the story.\`**:
+
+![map 5](/images/s09.jpg)
+
+The aliens' country is on the **Antartica Peninsula\`Hey, wait! I remember coming up with something like this for a school project. Guess I decided later to incorporate it into one of my stories.\`**.
+
+Shawn herd someone say, "He's just a kid. He can't fight."
+
+Shawn yelled, "You don't know who I realy am. I've been put under a curse."
+
+The group in the room laughed.
+
+"You don't believe me? I'm a knight from the might Alfred the Great."
+
+One person mumbled, "Let the kid dream."
+
+Other people asked, "Who let the kid in here?"
+
+They left.
+
+Suddenly Shawn saw a **leprechuan\`Seriously? Leprechauns in this story too?\`** running across the floor.
+
+The leprechuan siad, "Rats you saw me."
+
+**They talked\`Explain this to adults too that don't take Shawn seriously. Ha ha.\`**.
+#### Chapter 8: What Happens When Con's Alter Completes
+Back at year 603 A.D. the wizard finally woke up. He was able to sense that they slept 3 years. He woke everyone up and told them.
+
+They walk to the shack.
+
+The wounded **wolfrat followed them\`Wait, from the battle that was 3 years ago now?\`**. He made friends with them.
+
+Calvin asked, "What happens when Con's alter is complete?"
+
+The wizard answered, "The dragon will come."
+
+There was the crow watching them at the shack.
+#### Chapter 9: The Warp Strike Squad
+They all herd a hawk. Knight's came in everywhere. Hundreds of them.
+
+*Unfortunately, that's everything I have for this story. We don't get to find out what the whole 3 year sleep was all about. Probably something to do with Con. Actually, where I think I probably was going with this is that the alter had been completed in the 3 years and the knights at start of the chapter were going to inform the group a battle with the dragon is now raging.*
 `
