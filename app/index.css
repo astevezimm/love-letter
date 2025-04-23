@@ -140,6 +140,9 @@ h3 {
 
 .story img {
     max-width: 7rem;
+    &[alt*="map"] {
+        max-width: 40rem;
+    }
 }
 
 .story h4 {
