@@ -22,6 +22,7 @@ nav {
     margin-bottom: 2rem;
     position: sticky;
     top: 10px;
+    z-index: 3;
 }
 
 nav a {
@@ -76,14 +77,14 @@ h3 {
 }
 
 .story {
-    margin-bottom: 2rem;
+    margin-bottom: 5rem;
 }
 
 .intro {
     margin-bottom: 2rem !important;
 }
 
-.story p, .intro {
+.story p, .intro, .story blockquote, h4 {
     max-width: 65rem;
     margin: 0 auto;
 }
@@ -95,6 +96,7 @@ h3 {
 
 .story strong {
     text-decoration: underline;
+    background-color: #eaeaea;
     font-weight: inherit;
     position: relative;
     & code {
@@ -112,5 +114,36 @@ h3 {
         width: max-content;
         height: fit-content;
         max-width: min(20rem, 100vw);
+        z-index: 2;
     }
+}
+
+.story blockquote {
+    max-width: 50rem;
+    margin-top: .5rem;
+    margin-bottom: .5rem;
+    & p {
+        text-indent: 0;
+        font-family: serif;
+    }
+}
+
+.story hr {
+    border: 0;
+    text-align: center;
+    margin-top: .5rem;
+    margin-bottom: .5rem;
+    &::after {
+        content: "* * * * *";
+    }
+}
+
+.story img {
+    max-width: 7rem;
+}
+
+.story h4 {
+    font-size: 1.3rem;
+    margin-top: 1rem;
+    margin-bottom: 1.5rem;
 }
