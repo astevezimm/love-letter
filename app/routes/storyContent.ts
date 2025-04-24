@@ -473,9 +473,9 @@ Then they do the plan but the arrow **hit his glider instead of him\`After findi
 
 Uroda asked, "What about the wizard?"
 
-Calvin noticed the wizard still there being attacked by the wolfrats. The wizard did a spell that **killed all the wolfrats\`Reminds me of the part on Iron Man 2. Either Iron Man or War Machine wipes out enemies with a powerful attack and the other says, "Why didn't you open with that?"\`**. On **shell sheet\`Fine, I guess I dig for that too. Gerf!\`**:
+Calvin noticed the wizard still there being attacked by the wolfrats. The wizard did a spell that **killed all the wolfrats\`Reminds me of the part on Iron Man 2. Either Iron Man or War Machine wipes out enemies with a powerful attack and the other says, "Why didn't you open with that?"\`**. On spell sheet:
 
-![map 4](/images/s08.jpg)
+> *[Unable find this]*
 
 He yelled, "This spell only works on wolfrats."
 
@@ -483,9 +483,9 @@ The Cobra got frightened by the spell and **ran back to the Dark Castle\`Ha ha, 
 #### Chapter 7: The Invasion of Alien Ethnic Groups
 **Now\`Interesting chapter title. Um, okay?\`** Calvin lived three years of Shawn's life. **Shawn lived three years of Calvin's life\`I was wondering when we were getting back to that.\`**. They continued  living this lifes since Calvin's **sleep was way too long\`Huh? Am I missing something here?\`**.
 
-In 1996 it was a big battle. Aliens were trying to rule planet Earth. Shawn was getting the info about them from a computer on a base. **Info in packet\`Bangs head on deck. Okay, not really, but seriously man! To be fair, I had no intention back then to put all this up on a website like this, but use it to write the story.\`**:
+In 1996 it was a big battle. Aliens were trying to rule planet Earth. Shawn was getting the info about them from a computer on a base. Info in packet:
 
-![map 5](/images/s09.jpg)
+> *[Unable find this]*
 
 The aliens' country is on the **Antartica Peninsula\`Hey, wait! I remember coming up with something like this for a school project. Guess I decided later to incorporate it into one of my stories.\`**.
 
