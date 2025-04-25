@@ -413,6 +413,8 @@ The chase was on. Calvin was chasing the crow. The crow goes in Con's thrown roo
 At the front of the castle, knights came out the front of it. Calvin ran in and ran past the guards. He jumped in the well and the guards couldn't find him. The rest of the route is on the map.
 
 ![map](/images/s05.jpg)
+![map 1](/images/s06.jpg)
+![map 2](/images/s07.jpg)
 
 He went back to the wizard's shack. The wizard's gone.
 #### Chapter 4: Cave of Terror
@@ -433,9 +435,9 @@ Calvin found a recipe in one of the wizard's book for a potion that burns like b
 
 He goes to the Cave of Terror. Rest of the route is on the map of the cave of terror.
 
-![map 2](/images/s06.jpg)
+![map 3](/images/s08.jpg)
 
-While they walked to the shed halfway, it got too dark to walk anymore.
+While **they\`For those who can't decipher this cryptic map, they refers to Calvin, the rescued wizard, and a rescued prisoner.\`** walked to the shed halfway, it got too dark to walk anymore.
 #### Chapter 5: The Wolfrats
 They **hunted a deer\`Hopefully, Calvin wasn't too much of a city boy in 1993.\`** and made a tent out of the skin. They made a camp fire and cooked the deer meat. They ate.
 
@@ -467,7 +469,7 @@ Uroda warned Calvin that he won't stand a chance. **He wasn't standing a chance\
 
 He walked away and told Uroda that they needed a plan. The plan's on the **plan sheet\`Oh, come on! Fine, need to fetch this plan sheet.\`**:
 
-![map 3](/images/s07.jpg)
+![map 4](/images/s09.jpg)
 
 Then they do the plan but the arrow **hit his glider instead of him\`After finding this plan sheet, I'll have this in context.\`**. The Cobra fell out of the sky and landed on Calvin. They both lost their weapons. They fought by hand.
 
