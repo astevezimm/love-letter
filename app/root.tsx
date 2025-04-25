@@ -5,8 +5,22 @@ import {
   Scripts,
   ScrollRestoration,
 } from "@remix-run/react"
-import {LinksFunction} from '@remix-run/node'
+import {LinksFunction, MetaFunction} from '@remix-run/node'
 import styles from "./index.css?url"
+
+export const meta: MetaFunction = () => {
+  const title = "Andrew Zimmerman | Childhood Tribute"
+  const description = "This is a love letter to my childhood imagination. It contains things I've drawn and stories I've written in preteens or older."
+  
+  return [
+    { title },
+    { name: "description", content: description },
+    { name: "og:title", content: title },
+    { name: "og:description", content: description },
+    { name: "og:image", content: "/images/i55.jpg" },
+    { name: "twitter:card", content: "summary" },
+  ]
+}
 
 export const links: LinksFunction = () => {
   return [{ rel: "stylesheet", href: styles }]
