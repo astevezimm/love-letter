@@ -17,8 +17,7 @@ export const meta: MetaFunction = () => {
     { name: "description", content: description },
     { name: "og:title", content: title },
     { name: "og:description", content: description },
-    { name: "og:image", content: "/images/i55.jpg" },
-    { name: "og:image:height", content: "630" },
+    { name: "og:image", content: "/images/i05.jpg" },
     { name: "twitter:card", content: "summary" },
   ]
 }
